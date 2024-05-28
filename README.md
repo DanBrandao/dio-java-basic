@@ -1,3 +1,3 @@
 # dio-java-basic
 
-Alterando o conteúdo de um arquivo de forma local
+Repositório para a produção de exercícios e exemplos disponíveis na trilha de estudos, disponibilizado pela DIO.

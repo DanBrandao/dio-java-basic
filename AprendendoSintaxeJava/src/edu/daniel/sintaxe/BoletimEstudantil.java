@@ -1,3 +1,4 @@
+package edu.daniel.sintaxe;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         

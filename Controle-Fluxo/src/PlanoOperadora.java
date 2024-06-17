@@ -7,7 +7,7 @@ public class PlanoOperadora {
                 System.out.println("5Gb Youtube");
             }                
             case "M": {
-                Sytem.out.println("Whatsapp e Instagram grátis");
+                System.out.println("Whatsapp e Instagram grátis");
             }
             case "B": {
                 System.out.println("100 minutos de ligação");
